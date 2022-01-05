@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vg ver="1" name="KEY101.vg" type="vector" width="220" height="30" discription="" color="0xffffff" transparent="no"><state id="0"><draw name="" type="rect" pos_sx="0" pos_sy="0" pos_ex="219" pos_ey="29" penwidth="2" penstyle="6" Flag="0" pencolor="0xeeeeaf" fillcolor="0x511700" fill="color" GradientFill="false" BackgroundColor="0x511700" ForegroundColor="0x0" lock_status="0" isgroupmember="no"><View CtrlMode="0"/><DynamicGraph flag="0"/></draw></state></vg>
