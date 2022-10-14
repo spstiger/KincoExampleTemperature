@@ -1,6 +1,8 @@
 # KincoExampleTemperature
 Example Project for Temperature Display in Kinco HMI
 
+![Temperaturanzeige](/main/spstiger_Beispiel_Temperaturanzeige.png)
+
 Dieses Beispielprogramm für ein Kinco GT070HE zeigt, wie man leicht eine Temperaturanzeige auf dem HMI darstellen kann. Es beinhaltet folgende Funktionen und Anpassungen:
 
 * Zahlenanzeige für Temperatur mit Nachkommastellen und Einheit als Label (°C)
