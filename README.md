@@ -1,4 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[!project size](https://img.shields.io/github/repo-size/spstiger/KincoExampleTemperature?label=project%20size)
 
 # KincoExampleTemperature
 An example project for displaying a temperature value in a Kinco HMI.
