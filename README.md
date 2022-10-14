@@ -1,5 +1,6 @@
+
 # KincoExampleTemperature
-Example Project for Temperature Display in Kinco HMI
+An example project for displaying a temperature value in a Kinco HMI.
 
 ![Temperaturanzeige](/spstiger_Beispiel_Temperaturanzeige.png)
 
