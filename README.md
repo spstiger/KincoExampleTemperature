@@ -26,20 +26,14 @@ Dieses Beispielprogramm für ein Kinco GT070HE zeigt, wie man leicht eine Temper
   *Bei Funktion **Jog** muss die Taste eine Zeit lang gedrückt bleiben, um eine Aktion auszulösen*
 * Anpassung der Nummerntastatur mit passender Farbdarstellung und Arial Nova als Tastaturschriftart
 * Anpassung der Systemmeldung für falsche Eingabe des Rohwertes - Sprache und Schriftart der Meldung
-  
-  
 
 ![](assets/2024-07-13-15-57-32-image.png)
 
 *Konfiguration der Dezimalstellen, des Wertebereichs und einer Einheit als Label in der Zahlenkomponente*
 
-
-
 ![](assets/2024-07-13-15-58-10-image.png)
 
 *Konfigiration der Schriftart und Ausrichtung der Zahlenkomponente*
-
-
 
 ![](assets/2024-07-13-16-02-56-image.png)
 
@@ -53,8 +47,6 @@ Dieses Beispielprogramm für ein Kinco GT070HE zeigt, wie man leicht eine Temper
 
 Das Projekt wurde für das **Kinco HMI GT070HE** mit einer Auflösung von 1.024 x 600 Pixeln erstellt. Die Kinco HMI der GL100E und GT100E-Serie sowie das GT070E2 haben eine gleiche Auflösung. Das Projekt kann für diese Modelle einfach per Rechtsklick auf das HMI in DTools konvertiert werden. 
 Für HMI mit anderer Auflösung ist eine Konvertierung über diesen Weg ebenfalls möglich, es werden aber wahrscheinlich Nacharbeiten notwendig, um die Darstellung an das HMI anzupassen.
-
-
 
 ## Wie starte ich dieses Beispiel?
 
@@ -70,6 +62,6 @@ Für HMI mit anderer Auflösung ist eine Konvertierung über diesen Weg ebenfall
 
 4. Kompiliert das Projekt im Menü **Werkzeuge**
 
-5. Ruft im Menü **Werkzeuge** die **Offline-Simulation** auf
+5. Ruft im Menü **Werkzeuge** die **Offline-Simulation** auf oder übertragt das Projekt im selben Menü per **Download auf das HMI**
 
 ![DTools Beispiel](/Temperaturanzeige_DTools.png)
